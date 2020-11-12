@@ -72,4 +72,12 @@ jupyter notebook
 - [Comprehensive Python Cheat Sheet](https://gto76.github.io/python-cheatsheet/)
 - [Learn X in Y Minutes - Python](https://learnxinyminutes.com/docs/python/)
 
+### Official Documentation Pages
+
+- [Python](https://docs.python.org/3/)
+- [NumPy](https://numpy.org/doc/stable/)
+- [pandas](https://pandas.pydata.org/docs/)
+- [seaborn](https://seaborn.pydata.org/)
+- [scikit-learn](https://scikit-learn.org/stable/user_guide.html)
+
 Keep an eye out for additional helpful resources as we progress through the labs.
