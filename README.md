@@ -14,7 +14,7 @@ Click on the hyperlinks below to access a static version of the notebook (for qu
 | 6     | Decision Trees, Random Forests & Cross-Validation                   | [Lab 6](lab_content/Lab_06_Complete.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GUC-DM/W2020/blob/main/lab_content/Lab_06_Complete.ipynb) | [Ex. 6](lab_exercises/Lab_06_Exercises.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GUC-DM/W2020/blob/main/lab_exercises/Lab_06_Exercises.ipynb) | [Sol. 6](lab_solutions/Lab_06_Solution.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GUC-DM/W2020/blob/main/lab_solutions/Lab_06_Solution.ipynb) |
 | 7     | Logistic Regression, KNN, Naive Bayes Classifier & Model Comparison | -                                                                                                                                                                                                                  | [Ex. 7](lab_exercises/Lab_07_Exercises.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GUC-DM/W2020/blob/main/lab_exercises/Lab_07_Exercises.ipynb) | [Sol. 7](lab_solutions/Lab_07_Solution.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GUC-DM/W2020/blob/main/lab_solutions/Lab_07_Solution.ipynb) |
 | 8     | K-Means Clustering                                                  | [Lab 8](lab_content/Lab_08_Complete.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GUC-DM/W2020/blob/main/lab_content/Lab_08_Complete.ipynb) | [Ex. 8](lab_exercises/Lab_08_Exercises.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GUC-DM/W2020/blob/main/lab_exercises/Lab_08_Exercises.ipynb) | [Sol. 8](lab_solutions/Lab_08_Solution.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GUC-DM/W2020/blob/main/lab_solutions/Lab_08_Solution.ipynb) |
-| 9     | Association Rule Mining                                             | Lab 9                                                                                                                                                                                                              | Ex. 9                                                                                                                                                                                                                    | Sol. 9                                                                                                                                                                                                                  |
+| 9     | Association Rule Mining                                             | [Lab 9](lab_content/Lab_09_Complete.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GUC-DM/W2020/blob/main/lab_content/Lab_09_Complete.ipynb) | [Ex. 9](lab_exercises/Lab_09_Exercises.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GUC-DM/W2020/blob/main/lab_exercises/Lab_09_Exercises.ipynb) | Sol. 9                                                                                                                                                                                                                  |
 | 10    | Recommender Systems                                                 | Lab 10                                                                                                                                                                                                             | Ex. 10                                                                                                                                                                                                                   | Sol. 10                                                                                                                                                                                                                 |
 
 *Note: Solutions will be made available at the end of each week.*
@@ -65,6 +65,11 @@ jupyter notebook
 - [What is the Jupyter Notebook?](https://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/What%20is%20the%20Jupyter%20Notebook.ipynb)
 - [Jupyter Notebook Basics](https://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb)
 
+## Markdown for Text Cell Formatting
+
+- [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax)
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet)
+
 ### Quick Python References
 
 - [Beginner Python Cheat Sheet](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/)
@@ -78,5 +83,6 @@ jupyter notebook
 - [pandas](https://pandas.pydata.org/docs/)
 - [seaborn](https://seaborn.pydata.org/)
 - [scikit-learn](https://scikit-learn.org/stable/user_guide.html)
+- [MLxtend](https://rasbt.github.io/mlxtend/)
 
 Keep an eye out for additional helpful resources as we progress through the labs.
